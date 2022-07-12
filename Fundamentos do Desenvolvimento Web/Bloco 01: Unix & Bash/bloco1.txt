@@ -1,0 +1,5 @@
+# BLOCO 1 - UNIX E BASH
+
+Esse bloco pertence ao módulo de `fundamentos` do curso da [Trybe](https://www.betrybe.com/).
+Nesse bloco aprendi sobre o princípal sistema operacional, o Unix,
+aprendendo seu funcionamento e como interagir com ele através do terminal, utilizando o Bash.
